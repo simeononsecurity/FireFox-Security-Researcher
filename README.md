@@ -2,6 +2,8 @@
 
 Configure FireFox with Security and Intelligance features for OSINT and Security Investigations.
 
+*** This repo is in early alpha. Do not run this script yet ***
+
 
 ## Download the required files
 
