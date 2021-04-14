@@ -17,11 +17,11 @@ If ((Test-Path -Path $firefox64) -eq $true){
     Copy-Item -Path .\Files\* -Destination $firefox64 -Force -Recurse
     Write-Host "Firefox 64-Bit Configurations Installed"
 }Else {
-    Write-Host "FireFox 64-Bit Is Not Installed"
+    Write-Host "FireFox 64-Bit Is Not Installed - Skipping...."
 }
 If ((Test-Path -Path $firefox32) -eq $true){
     Copy-Item -Path .\Files\* -Destination $firefox32 -Force -Recurse
     Write-Host "Firefox 32-Bit Configurations Installed"
 }Else {
-    Write-Host "FireFox 32-Bit Is Not Installed"
+    Write-Host "FireFox 32-Bit Is Not Installed - Skipping...."
 }
