@@ -1,5 +1,7 @@
 # FireFox OSINT and Security Researcher Configuration
 
+[![VirusTotal Scan](https://github.com/simeononsecurity/FireFox-Security-Researcher/actions/workflows/virustotal.yml/badge.svg)](https://github.com/simeononsecurity/FireFox-Security-Researcher/actions/workflows/virustotal.yml)
+
 Configure FireFox with Security and Intelligance features for OSINT and Security Investigations.
 
 ***This repo is in early alpha. Do not run this script yet***
